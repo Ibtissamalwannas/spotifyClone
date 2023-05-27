@@ -1,5 +1,5 @@
 # spotifyClone
-To text the app 
+To test the app 
 first you shoud have expo go on your mobile 
 
 when open the project on vs
